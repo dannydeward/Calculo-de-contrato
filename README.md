@@ -1,2 +1,2 @@
 # Calculo-de-contrato
-Apliacaciond e escritorio realizada  Visual Studio,  sirve para calcular el costo anuald e un contrato para un inmobiliaria
+Aplicacion de escritorio realizada  Visual Studio con  . NET ,  sirve para calcular el costo anual de un contrato para un inmobiliaria
